@@ -1,1 +1,1 @@
-Fullstack Web Developer focusing in the Mern Stack.
+Fullstack Web Developer specializing in the MERNStack.
