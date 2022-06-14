@@ -1,1 +1,1 @@
-Fullstack Web Developer specializing in the MERNStack.
+Frontend Web Developer with experience in MERN stack. 
